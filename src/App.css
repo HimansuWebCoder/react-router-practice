@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.link {
+  text-decoration: none;
+}
+
+#delete-box {
+  width: 500px;
+  height: 200px;
+  border: 1px solid black;
+  background-color: gray;
+  color: white;
+  margin-left: 20px;
+}
+
+.link-container {
+  display: flex;
+  justify-content: space-around;
+}
